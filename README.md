@@ -40,11 +40,6 @@ By using the Python Automation App, you agree to the following terms:
 
 3. **User Responsibility**: Users are responsible for ensuring that they have the necessary permissions and rights to use the app in their specific environment. It is the user's responsibility to back up any important data before using the app.
 
-4. **Contact for Usage**: If you wish to use the Python Automation App, please contact me at [r230302@famt.ac.in](mailto:r230302@famt.ac.in) before proceeding. I would like to be informed about how the app is being used and any feedback you may have.
-
-5. **Compliance**: Users are responsible for complying with all applicable laws and regulations when using the app.
+4. **Compliance**: Users are responsible for complying with all applicable laws and regulations when using the app.
 
 By using the Python Automation App, you acknowledge that you have read, understood, and agree to these terms.
-
-## Contact 
-Mail me at [r230302@famt.ac.in](mailto:r230302@famt.ac.in)
