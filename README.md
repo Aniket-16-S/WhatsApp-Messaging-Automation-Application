@@ -26,7 +26,7 @@ Whether you're looking to automate data management or messaging, this app provid
 To install the Python Automation App, follow these steps:
 
 - 💾 You can directly download the executable file for Windows (.exe)  
-- 🔗 [Click here to download]()  
+- 🔗 [Click here to download](https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/f791ea313ee014bfc4f933058c00ae159b05917c/RedVelvet.exe)  
 
 ## 📜 Usage T&C
 
