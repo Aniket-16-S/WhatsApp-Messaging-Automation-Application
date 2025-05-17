@@ -1,11 +1,16 @@
 # 🐍 Python Automation App 🤖
 
 ## 📚 Contents
+- [✅ App Interface Images](#App%20%Interface)
 - [📌 Introduction](#introduction)
 - [✨ Features](#features)
 - [🛠 Installation](#installation)
 - [📜 Usage T&C](#usage)
 - [📬 Contact](#contact)
+
+## App Interface
+<img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/e5ed4d9eb1bbb40f2f6435050d919465e37646b6/Outputs/Output%201.png" width=50% height=35%>
+
 
 ## 📌 Introduction
 
@@ -25,12 +30,27 @@ Whether you're looking to automate data management or messaging, this app provid
 
 To install the Python Automation App, follow these steps:
 
-- 💾 You can directly download the executable file for Windows (.exe)  
-- 🔗 [Click here to download](https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/f791ea313ee014bfc4f933058c00ae159b05917c/RedVelvet.exe)  
+- 💾 You can directly download the executable file for Windows (.exe)
+  > _No setup, no stress._
+#### OR
+- 🔗 [Click here to download](https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/f791ea313ee014bfc4f933058c00ae159b05917c/RedVelvet.exe) 
+#### OR
+- 🔹 Option 2: Manual Setup (Developers / Advanced Users)
 
-## 📜 Usage T&C
+```bash
+git clone https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application.git
+```
+```bash
+cd WhatsApp-Messaging-Automation-Application
+```
+```bash
+pip install -r requirements.txt
+```
+```bash
+python RedVelvet.py
+```
 
-### ⚖️ Usage Terms
+## ⚖️ Usage Terms
 
 By using the Python Automation App, you agree to the following terms:
 
@@ -40,3 +60,18 @@ By using the Python Automation App, you agree to the following terms:
 4. 📜 **Compliance**: Make sure you're playing by the rules—follow all laws and regulations.
 
 By using the app, you're basically saying “yep, I read and get this stuff.” ✅
+
+## 📬 Contact
+### Got feedback, bugs, or wanna collab ? Let’s talk :
+- 📧 r230302@famt.ac.in
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/aniket-sandye?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+
+## 🤝 Let's Collaborate
+Got ideas? Found a bug? Wanna build something cool together? wanna request more features ?
+
+###  I’m down to collab!
+### Whether it's automation, web apps, or just techy side quests — hit me up.
+
+🔍 [Explore more projects :](https://github.com/Aniket-16-S)
+
+# ⭐ Don’t forget to star the repo if you vibe with it!
