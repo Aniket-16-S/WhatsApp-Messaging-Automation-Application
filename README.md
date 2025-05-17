@@ -10,7 +10,18 @@
 - [🤝 Let's Collaborate](#Let's%20%Collaborate)
 
 ## App Interface
-<img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/e5ed4d9eb1bbb40f2f6435050d919465e37646b6/Outputs/Output%201.png" width=50% height=35%>
+## App Interface
+
+<p align="left">
+  <img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/e5ed4d9eb1bbb40f2f6435050d919465e37646b6/Outputs/Output%201.png?raw=true" width="45%" />  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/ef5d6cdaec606a2491924b558914a5b13c479208/Outputs/Output%202.png?raw=true" width="45%" />
+</p>
+
+<p align="left">
+  <img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/ef5d6cdaec606a2491924b558914a5b13c479208/Outputs/Output%203.png?raw=true" width="45%" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/ef5d6cdaec606a2491924b558914a5b13c479208/Outputs/Output%204.png?raw=true" width="45%" />
+</p>
+
 
 
 ## 📌 Introduction
