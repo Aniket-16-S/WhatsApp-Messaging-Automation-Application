@@ -7,6 +7,7 @@
 - [🛠 Installation](#installation)
 - [📜 Usage T&C](#usage)
 - [📬 Contact](#contact)
+- [🤝 Let's Collaborate](#Let's%20%Collaborate)
 
 ## App Interface
 <img src="https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/e5ed4d9eb1bbb40f2f6435050d919465e37646b6/Outputs/Output%201.png" width=50% height=35%>
@@ -30,7 +31,7 @@ Whether you're looking to automate data management or messaging, this app provid
 
 To install the Python Automation App, follow these steps:
 
-- 💾 You can directly download the executable file for Windows (.exe)
+- 💾 You can directly download the executable file for Windows 
   > _No setup, no stress._
 #### OR
 - 🔗 [Click here to download](https://github.com/Aniket-16-S/WhatsApp-Messaging-Automation-Application/blob/f791ea313ee014bfc4f933058c00ae159b05917c/RedVelvet.exe) 
@@ -72,6 +73,6 @@ Got ideas? Found a bug? Wanna build something cool together? wanna request more 
 ###  I’m down to collab!
 ### Whether it's automation, web apps, or just techy side quests — hit me up.
 
-🔍 [Explore more projects :](https://github.com/Aniket-16-S)
+🔍 [Click here to Explore more projects ](https://github.com/Aniket-16-S)
 
-# ⭐ Don’t forget to star the repo if you vibe with it!
+## ⭐ Don’t forget to star the repo if you vibe with it!
